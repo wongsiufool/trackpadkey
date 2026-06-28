@@ -14,6 +14,11 @@
   &nbsp;·&nbsp; macOS 13+ &nbsp;·&nbsp; Apple Silicon &nbsp;·&nbsp; 妙控板 / 内置触控板
 </p>
 
+<p align="center">
+  <img src="docs/editor.png" width="760" alt="TrackpadKey 可视化区域编辑器 / Visual region editor">
+</p>
+<p align="center"><sub>可视化区域编辑器：拖动画区域、绑定按键、实时手指落点预览 · Visual editor: draw regions, bind keys, live fingertip preview</sub></p>
+
 ---
 
 ## 中文
