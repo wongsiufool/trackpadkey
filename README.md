@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  <img src="docs/editor.png" width="760" alt="TrackpadKey 可视化区域编辑器 / Visual region editor">
+  <img src="docs/demo.gif" width="760" alt="TrackpadKey 演示 / Demo">
 </p>
-<p align="center"><sub>可视化区域编辑器：拖动画区域、绑定按键、实时手指落点预览 · Visual editor: draw regions, bind keys, live fingertip preview</sub></p>
+<p align="center"><sub>轻点区域即触发，键帽实时闪光反馈，手指落点实时预览 · Tap a region to fire — live flash feedback and fingertip preview</sub></p>
 
 ---
 
